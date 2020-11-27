@@ -1,6 +1,6 @@
 <h1 align="center">MVVM Showcase</h1>
   <p align="center">
-    <h3 align ="center">A simple presentation of my understanding of MVVM design pattern, taken from a tutorial by Steven Curtis.</h3>
+    <h3 align ="center">A simple presentation of my understanding of MVVM design pattern, based on a tutorial by Steven Curtis.</h3>
 </p>
 
 <h4 align="center">
